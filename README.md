@@ -10,3 +10,6 @@
 在这种情况下，我们提供了一个替代链接，让你可以下载WireGuard安装程序并安装它。
 
 [alternate wireguard link](https://github.com/4cecoder/guan-net/raw/main/wireguard-installer.exe)
+
+
+[stable diffusion code](https://github.com/cmdr2/stable-diffusion-ui)
