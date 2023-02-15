@@ -11,5 +11,9 @@
 
 [alternate wireguard link](https://github.com/4cecoder/guan-net/raw/main/wireguard-installer.exe)
 
+### image ai
 
-[stable diffusion code](https://github.com/cmdr2/stable-diffusion-ui)
+[stable diffusion original code](https://github.com/cmdr2/stable-diffusion-ui)
+
+ ### macos 
+Diffusion Bee是在Intel / M1 Mac上本地运行Stable Diffusion最简单的方法。它配有一键安装程序，不需要依赖项或技术知识。
