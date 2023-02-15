@@ -70,6 +70,12 @@ DALL-E 2是OpenAI的一种人工智能模型，可以将自然语言描述转换
 
 [mini version](https://github.com/borisdayma/dalle-mini)
 
+### dall-e vs Midjourney
+本文介绍了两款革命性的AI工具——Dall-E和Midjourney。这两个基于AI的文本到图像生成器可以根据用户的输入生成惊人的数字图像。
+
+本文对Dall-E和MidJourney的开发历程、性能、艺术质量、用户界面和可访问性以及价格等方面进行了比较。
+
+此外，本文还解释了这两款工具的特点。总之，本文指出了这两款AI工具的差异，以及它们为生成高质量图像所带来的无限可能性。
 
 ## specs
 如果你想在自己的笔记本电脑上运行一些较为复杂的人工智能算法，建议至少需要以下配置：
