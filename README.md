@@ -13,6 +13,8 @@
 
 
 ## text ai 
+
+
 [Chat GPT](https://chat.openai.com)是一种基于自然语言处理的聊天机器人技术，使用了深度学习模型，可以模仿人类对话的语言风格和模式。
 
 Chat GPT的主要功能是让人们可以通过与它对话来获取信息、解决问题、交流思想等。
@@ -49,7 +51,6 @@ DALL-E 2是OpenAI的一种人工智能模型，可以将自然语言描述转换
 可以为许多领域提供有用的应用，例如设计、广告、媒体等。
 
 [mini version](https://github.com/borisdayma/dalle-mini)
-
 
 
 ## specs
