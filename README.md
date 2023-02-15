@@ -23,6 +23,8 @@ Chat GPT的主要功能是让人们可以通过与它对话来获取信息、解
 
 
 ## image ai
+
+## stable diffusion
 ### windows/any system
 
 (原始的Stable Diffusion需要进行一些设置。)
@@ -31,6 +33,12 @@ Chat GPT的主要功能是让人们可以通过与它对话来获取信息、解
 
  ### macos
 [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)是在Intel / M1 Mac上本地运行Stable Diffusion最简单的方法。它配有一键安装程序，不需要依赖项或技术知识。
+
+### [midjourney](https://www.midjourney.com)
+
+### [dall-e](https://openai.com/dall-e-2/)
+[mini version](https://github.com/borisdayma/dalle-mini)
+
 
 
 ## specs
