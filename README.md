@@ -11,7 +11,7 @@
 
 [alternate wireguard link](https://github.com/4cecoder/guan-net/raw/main/wireguard-installer.exe)
 
-### image ai
+## image ai
 ### windows/any system
 
 (原始的Stable Diffusion需要进行一些设置。)
