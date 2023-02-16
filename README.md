@@ -9,7 +9,7 @@
 
 在这种情况下，我们提供了一个替代链接，让你可以下载WireGuard安装程序并安装它。
 
-[alternate wireguard link](https://cloud.bytecats.codes/s/sw8mBtp3gbB5r9S)
+[点击备用链接。](https://cloud.bytecats.codes/s/sw8mBtp3gbB5r9S)
 
 
 ## text ai 
